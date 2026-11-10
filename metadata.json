@@ -1,0 +1,8 @@
+{
+  "name": "ระบบประเมินความพึงพอใจการอบรม & Real-time Live Dashboard",
+  "description": "เว็บแอปพลิเคชันแบบสอบถามความพึงพอใจสำหรับผู้เข้าอบรมผ่านมือถือ พร้อมแดชบอร์ดสรุปผลแบบเรียลไทม์ QR Code สแกนตอบ และส่งออกข้อมูล CSV",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
